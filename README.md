@@ -2,8 +2,6 @@ Discord Account Gen Bot
 
 ✨️Account Gen Bot✨️
 
-☠️Do not edit it☠️
-
 ⛔️It isn't Discord Token Generator just account generator⛔️
 
 💬If you put in stock, you enter a command on Discord and it comes out (Valorant, League of legends, Netflix, etc.)💬
